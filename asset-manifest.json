@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Entendiendo-React/static/css/main.073c9b0a.css",
+    "main.js": "/Entendiendo-React/static/js/main.8ae6c392.js",
+    "static/js/787.294c790e.chunk.js": "/Entendiendo-React/static/js/787.294c790e.chunk.js",
+    "static/media/logo.svg": "/Entendiendo-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Entendiendo-React/index.html",
+    "main.073c9b0a.css.map": "/Entendiendo-React/static/css/main.073c9b0a.css.map",
+    "main.8ae6c392.js.map": "/Entendiendo-React/static/js/main.8ae6c392.js.map",
+    "787.294c790e.chunk.js.map": "/Entendiendo-React/static/js/787.294c790e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ae6c392.js"
+  ]
+}
