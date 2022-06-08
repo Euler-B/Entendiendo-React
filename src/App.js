@@ -1,18 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          <h1>Hello World.</h1>
-          Signed by <h2>Eduardo</h2>
-        </p>
-      </header>
+    <div 
+    style={{
+      margin: "auto",
+      width: 800,
+      paddingTop: "1rem",
+    }}
+  >
+      <h1 className="title">Pokemon Search</h1>
+      <table width="100%">
+        <thead>
+          <tr>
+           <th>Name</th>
+           <th>Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          <td>Bulbasaur</td>
+          <td>Grass, Poisson</td>
+        </tbody>
+      </table>
     </div>
-  );
+);
 }
 
 export default App;
